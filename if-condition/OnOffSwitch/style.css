@@ -1,0 +1,7 @@
+.switch{
+	border: 1px solid black;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-right: 10px;
+}

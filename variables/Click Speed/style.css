@@ -1,0 +1,41 @@
+.box{
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+	float: left;
+	margin-right: 20px;
+}
+
+.instructions{
+	font-size: 25px;
+	margin-bottom: 25px;
+}
+
+.blue{
+	background-color: blue;
+}
+
+.red{
+	background-color: red;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.green{
+	background-color: green;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.results{
+	font-size: 25px;
+	margin-top: 25px;
+}
